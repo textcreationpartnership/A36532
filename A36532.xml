@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Dreame, or, Nevves from Hell with a relation of the great god Pluto suddenly falling sicke by reason of this present parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36532</idno>
+            <idno type="STC">Wing D2156</idno>
+            <idno type="STC">ESTC R29803</idno>
+            <idno type="EEBO-CITATION">11209147</idno>
+            <idno type="OCLC">ocm 11209147</idno>
+            <idno type="VID">46779</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36532)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46779)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Dreame, or, Nevves from Hell with a relation of the great god Pluto suddenly falling sicke by reason of this present parliament.</title>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>Printed in Sicilia on the back-side of the Cyclopean mountains :</pubPlace>
+                  <date>1641 [London : s.n.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Has woodcut illustraton on t.p.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:46779:1"/>
+               <pb facs="tcp:46779:1"/>
+A DREAME: Or NEVVES FROM HELL.</p>
+            <p>With a Relation of the great God PLUTO, ſuddenly falling ſicke by reaſon of this preſent Parliament.</p>
+            <figure>
+               <figDesc>depiction of three men holding bottles around the bedside of Pluto</figDesc>
+            </figure>
+            <p>Printed in S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> on the back-ſide of the Cy<g ref="char:EOLhyphen"/>clopean Mountaines. 1641.</p>
+            <pb facs="tcp:46779:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:46779:2"/>
+            <head>A DREAME OR NEVVES FROM HELL.</head>
+            <p>NOT long ſince an honeſt Yeoman comming up to <hi>London,</hi> to petition to the moſt honou<g ref="char:EOLhyphen"/>rable <hi>High Court of Parliament</hi> in his own behalfe, for an eſpeciall wrong he had recei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed from certaine Projectors, who had encroached upon a par<g ref="char:EOLhyphen"/>cell of his Free-hold, neere to the Common where he dwelt, by direction of ſome well-minded people, came into <hi>Weſtminſter</hi> Hall, where having walked a long time up and down, &amp; not knowing unto whom to deliver his petition, among ſo many hundreds that he met withall, at laſt being deſirous to take ſome repaſt, wherewith he might revive &amp; comfort him<g ref="char:EOLhyphen"/>ſelfe, he came to a place neere adjoyning, which was tearmed by the name of Hell, and having well ſatiſ<g ref="char:EOLhyphen"/>fied himſelfe with ſuch a portion of meat &amp; drinke as be thought might content his appetite, he deman<g ref="char:EOLhyphen"/>ded what might be to pay, and finding the reckoning
+<pb n="2" facs="tcp:46779:3"/>
+to be beyond his expectation, he grew very much diſ<g ref="char:EOLhyphen"/>contented at the payment thereof, and repairing pre<g ref="char:EOLhyphen"/>ſently to his Lodging, being not farre off, and being very much perplexed at his former Reckoning, he re<g ref="char:EOLhyphen"/>ſolved at the laſt to betake himſelfe to his Bed, and not long after falling into a ſlumbring ſleepe (divers Whimzies and diverſities of Motions, ſwimming in his braine of the ſuppoſed Hell where he had for<g ref="char:EOLhyphen"/>merly beene) he dream'd he was in the true and locall Hell indeed:</p>
+            <p>Where being affrighted with the apparitions of divers hideous and ugly deformed diabolicall Fiends, who were by his cogitation numberleſſe, he was tran<g ref="char:EOLhyphen"/>ſported by his fancie to the great Court of <hi>Grand Pluto,</hi> who being attended with a multitude of his blacke Guard, and other his ſtigmaticall Officers, there was an inſtant hurly-burly and combuſtion in the Court, about the ſuddenneſſe of <hi>Grand-Pluto</hi> falling into a greevous ſickneſſe; wherefore all the Court Doctors of Hell being ſummoned to appeare (with an infinit company of Witches, Conjurers, &amp; Sorcerers, fetcht from all other places, to give their beſt advice therein, were admitted into his princely Chamber, and having caſt his water, and debated the matter a long time about the difficulty of his Diſeaſe, at length they all agreed, that he fell ſick of a Parliament.</p>
+            <p>Whereupon Proclamation being made in <hi>Pluto's</hi> name throughout all his Helliſh Dominions, to any
+<pb n="3" facs="tcp:46779:3"/>
+whatſoever to repaire unto his Court, with promiſes of great reward and favour from him, that could by any wayes comfort him in this behalfe. Upon a ſud<g ref="char:EOLhyphen"/>den there appeared a multitude in long button'd caſ<g ref="char:EOLhyphen"/>ſacks, high collars, and ſquare C-ps, with ſmall fal<g ref="char:EOLhyphen"/>ling bands about their Necks, <hi>who ſeemed to ſtrive, a<g ref="char:EOLhyphen"/>goinſt all others, to be the firſt that might be admitted into his preſence; and theſe were reported to be a com<g ref="char:EOLhyphen"/>p-ny of Ieſuites, who were the deere children of Pluto, who hearing that their Father was ſicke, came in all ſubmiſsive manner to viſit him, and to offer their ſer<g ref="char:EOLhyphen"/>vice unto him,</hi> and withall informed him, that if there were any Deſigne, Practice, Plot, Device, Stu<g ref="char:EOLhyphen"/>dy, or other ſtratagem whatſoever, that could admi<g ref="char:EOLhyphen"/>niſter him any comfort, or wherein they might any wayes expreſſe their duty unto him, or further en<g ref="char:EOLhyphen"/>large his Kingdome, they would ride, runne, goe, trot, or what not to performe his pleaſure therein, and withall, deſired him to be of good cheere, and to be comforted in his Children, who were ready at all times to waite his will and pleaſure, and to execute whatſoever he ſhould command.</p>
+            <p>Hereupon they deſired their Father <hi>Pluto</hi> to take notice of the former care they had to enlarge his Kingdome, by animating the great <hi>Metropolitan</hi> to be a meanes to bring in <hi>Popery,</hi> and to doe the beſt ſervice he could therein.</p>
+            <p>And withall ſhewing how they had ſowed ſedition
+<pb n="4" facs="tcp:46779:4"/>
+and diſcord amongſt the <hi>Engliſh Hereticks,</hi> and pro<g ref="char:EOLhyphen"/>voked the <hi>Scottiſh Hereticks</hi> to rebell againſt their lawfull King, and to intrude into the <hi>Territories</hi> of this Land; and alſo had animated their beloved Bro<g ref="char:EOLhyphen"/>ther <hi>Cardinall de Richlieu</hi> to raiſe a puiſſant Army for the invaſion of this Land in two ſeverall places, <hi>(viz.) at Dover and Portſmouth,</hi> at ſuch times as the King was ſuppoſed to be moſt deeply employed in his <hi>Warre</hi> againſt the <hi>Scots;</hi> and likewiſe have wee not procured your great <hi>Secretary of State, Don An<g ref="char:EOLhyphen"/>tonio Demonibus</hi> to make an eſpeciall inrolement of all their names in your Kalendar, amongſt thoſe your deare Servants, <hi>the Plotters of the Gun-powder Trea<g ref="char:EOLhyphen"/>ſon, and thoſe renowned Complotters of the former inva<g ref="char:EOLhyphen"/>ſion into this Land in</hi> 88. <hi>and have not onely animated many noble perſonages, and others, to aſsiſt vs in our great Deſigne of bringing in of Popery into this Land, but have alſo procured divers Popiſh Books to be prin<g ref="char:EOLhyphen"/>ted openly, thereby the better to encourage your High<g ref="char:EOLhyphen"/>neſſe, deere Father, and the more to enlarge your King<g ref="char:EOLhyphen"/>dome.</hi>
+            </p>
+            <p>And for Courts of Juſtice, have we not alſo by our power and authority joyned with our dreadfull and High Commiſſion, brought to paſſe, that if any He<g ref="char:EOLhyphen"/>retike, under the degree of a Lord, ſhould but put on his Hat in the time of Divine Service, we kept him in our Eccleſiaſticall clutches fiue or ſixe yeares to<g ref="char:EOLhyphen"/>gether. And have we not likewiſe in the Courts of <hi>Chancery, Kings-Beach,</hi> or <hi>common Pleas,</hi> procured diuers wayes and meanes wherby many men (though their cauſe were never ſo juſt) have beene either by
+<pb n="5" facs="tcp:46779:4"/>
+continuall delayes wearied in their Suites, or by ex<g ref="char:EOLhyphen"/>torted <hi>Fees, Bri<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ery,</hi> or other <hi>Devices,</hi> driven to ſell and morgage their lands, goods, and whatſoever they have bin poſſeſſed off, that a man might have worne out<g ref="char:punc">▪</g> Buff-jerkins in that ſp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, &amp; yet they ſeldom or never had an end of their ſuites, but have bin fleeced and jeered out of their demeanes, ſo long as they could procure either mony or friends, and yet it hath bin carryed ſo reatly and cunningly, as if the courſe of Iuſtice had bin exactly performed.</p>
+            <p>
+               <hi>And for the Court of Exchequer, we are ablefur<g ref="char:EOLhyphen"/>ther to teſtiſe unto you (deare Father) out of our owne knowledge, that it is one of the beſt Courts belonging to your infernall Kingdome, for if a ſuite be once com<g ref="char:EOLhyphen"/>menced there, they have ſo many delayes by putting in of Pleas, making of Mtions, putting off a ſuite from Terme to Terme, after a verdict given, or framing ſome excuſes to ariſe from the Bench, when a Cauſe appoin<g ref="char:EOLhyphen"/>ted for the day ſhould be heard, or to cauſe Motion vpon Motion to be made, whereby ſo many Orders of the Court muſt be drawne vp, or pretending the Court not to be full, with other ſiniſter devices and ſleights there vſed; that wee have knowne ſome men to have ſerved an Apprenticeſhip, and bin made Free-men,</hi> and alſo to have married Wives, and had children, and yet the ſuit formerly commenced not ended. Therefore, deare Father <hi>Pluto,</hi> be of good comfort, and take it not ſo much to heart, ſo long as you have ſuch durifull children, and loving ſubjects; aſſuring your ſelfe, that we will doe our beſt endeavours to recover you of this Diſeaſe.</p>
+            <p>
+               <pb n="6" facs="tcp:46779:5"/>
+Preſently after this, there came a company of fel<g ref="char:EOLhyphen"/>lowes with broad Seales about theit necks, who were nominated to be <hi>Pluto's</hi> Iourney-men, and had the ti<g ref="char:EOLhyphen"/>tle of <hi>Pateatees,</hi> who alſo hearing that their <hi>Grand-Maſter</hi> was ſuddenly falne ſick, preſented themſelves in all humble manner, <hi>the further to expreſſe their du<g ref="char:EOLhyphen"/>ty and obedience vnto him;</hi> Relating unto their helliſh Maſter, that according to their power and his ap<g ref="char:EOLhyphen"/>pointment, they had ever bin obedient and faithfull ſervants unto him, in oppreſſing and ſqueezing the Common-wealth, and that they intended to continue therein, to the end of their dayes, and by what meanes they could poſſibly invent or deviſe, they would ſhew themſelves to be dutifull ſervants unto him, in rack<g ref="char:EOLhyphen"/>ing, poling, and pinching the poore both in city and country, <hi>vnder pretence of doing good in generall to the whole Common-wealth; and further declared vnto their Grand-Maſter, that in all their projects whatſoever, they had ſheltred themſelves vnder ſome great Patron, the better to colour their fraud and deceit:</hi> and like<g ref="char:EOLhyphen"/>wiſe, that in caſe they had any colour of ſetting the poore on worke, for a generall good, they might with authority and ſtrictneſſe the more covertly hide their cunning and knavery, and withall aſſured their great Maſter, that they would ſit up late, riſe early, and ſpare no paines to encreaſe his Kingdome, and humbly craved his approbation, <hi>that they might bee further imployed either herein, or in what other buſi<g ref="char:EOLhyphen"/>neſſe, in that nature it pleaſed him to command.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:46779:5"/>
+Whereunto <hi>Pluto</hi> replyed, that they had all done well, and left them at their owne diſpoſing to doe what they found to be convenient, and ſo they were diſpatched for the preſent.</p>
+            <p>Not long after, <hi>Cerberus</hi> the Porter of Hell, brought tydings vnto the palace of <hi>Pluto,</hi> that there was a poſt arrived with a packet of Letters from little <hi>Will;</hi> whereupon <hi>Don Antonio Demonibus,</hi> his chiefe Se<g ref="char:EOLhyphen"/>cretarie of State, was preſently ſent for to read them vnto <hi>Pluto,</hi> the contents whereof, as farre as could be gathered by thoſe that were neere about him, was to this effect, That the ſaid little <hi>Will,</hi> with divers other great perſonages of the State, would with all conve<g ref="char:EOLhyphen"/>nient ſpeed that might bee, come in perſon to viſit his greatneſſe, and there to remaine with him in his Court. Whereat <hi>Pluto</hi> being very glad, began to be ſomewhat chearefull at the hearing of this newes, calling him by name the Sonne of his love, and fur<g ref="char:EOLhyphen"/>ther ſaid, he had not thought to have ſeene him ſo ſoone, as now by his letters directed vnto him he did expect: and thereupon <hi>Pluto's</hi> chiefe Secretarie of ſtate was commanded to ſend an anſwer of the ſaid packet of Letters by the ſame poſt to little <hi>Will,</hi> and the other great perſonages of State aforeſaid, how glad he would be of their appearance in his Court, and what courteous entertainment they ſhould have when they came there. Then <hi>Pluto</hi> gave command, that the poſt ſhould be Royally rewarded for his paines, and called the poſt to him, &amp; aſked him what diet little <hi>Will</hi> did delight in, becauſe the place where I keepe Court, is of a hotter Climate then he hath
+<pb n="8" facs="tcp:46779:6"/>
+beene in heretofore, the poſt made anſwer that little <hi>Will</hi> formerly<g ref="char:punc">▪</g> did deſire tips of eares, but the Cooke dreſſed them with the blood in them, and ſo he tooke a ſurfet, and ever ſince lived at a ſparing diet. And further told his Highneſſe that he need not be at too much charge for little <hi>Wills</hi> dyet, he tooke delight but in two diſhes eſpecially, and they were Lamb and Duck, and thoſe he meant to bring with him. And ſuddainly vpon the departure of the poſt with this anſwer, Pluto <hi>gave ſtrict charge and command vnto his infernall attendants, that divers faire Roomes ſhould be preſently trimmed vp, and hanged round about with Tapiſtry and Cloth of Arras, for the better entertain<g ref="char:EOLhyphen"/>ment of little</hi> Will <hi>and his fellowes, or any that came along with him.</hi> Then I was very deſirous to know what this little <hi>Will</hi> was, at the firſt I could by no meanes learne, but at laſt <hi>I aſked</hi> one that I ſuppoſed to be of <hi>Pluto's</hi> neere attendants, if he knew him or no, he informed me, that he did not know him, but ſurely it was one that as yet had never been in <hi>Pluto's</hi> Court before, and verily beleeved that he had per<g ref="char:EOLhyphen"/>formed ſome extraordinary buſineſſe in <hi>Pluto's</hi> be<g ref="char:EOLhyphen"/>halfe, and deſerved to be highly advanced in his infer<g ref="char:EOLhyphen"/>nall Court, and alſo ſuppoſed him to be ſome great perſonage, otherwiſe he would never have received the Packet of Letters which he ſent him, with ſuch cheerefulneſſe, nor have given ſuch a ſtrict com<g ref="char:EOLhyphen"/>mand to his chiefe Secretary, and others his infernall ſervants, for his ſpeedy and preſent entertainment to his Court.</p>
+            <p>And notwithſtanding the ſuddain expectation of
+<pb n="9" facs="tcp:46779:6"/>
+little <hi>Wills</hi> comming into <hi>Pluto's</hi> Court and the reſt of his fellowes, which did not a little comfort and revive him in this his lingring ſickneſſe, yet <hi>Pluto</hi> found not all to be well in himſelfe, but grew more and more to be perplexed and ſo wonderfully out of patience, that his ordinary attendants could hardly keepe him in his Bed, inſomuch, that all his Helliſh Doctors were once againe ſent for to come with all ſpeed vnto him, who being come there, they found that he was very dangerouſly ſick indeed, and that he was fallen into a grievous relapſe, and that there was no meanes left to recover <hi>Pluto's</hi> health, and to reſtore him to his former ſtrength againe, or to enlarge his infernall Kingdome, but that by ſome device or other this preſent Parliament might be diſſolved and bro<g ref="char:EOLhyphen"/>ken vp, which being fully agreed vpon by all his Doctors they informed his Highneſſe. <hi>That if ever he expected to regaine his former eſtate, or to get any footing in England, he muſt with all ſpeed call a generall Councill of all his infernall and wel-beloved Subjects, that they might adviſe and conſult what way were beſt that this preſent Parliament might be diſſolved as a<g ref="char:EOLhyphen"/>foreſaid.</hi>
+            </p>
+            <p>Whereupon <hi>Cerberus</hi> by ſpeciall command and appointment of <hi>Grand Pluto,</hi> had authority to ſet the gates of Hell wide open, and that all paſſengers what<g ref="char:EOLhyphen"/>ſoever, (none to be denyed) might freely have ac<g ref="char:EOLhyphen"/>ceſſe to come and heare the will and pleaſure of <hi>Pluto,</hi> and alſo <hi>Charon</hi> was commanded with all poſ<g ref="char:EOLhyphen"/>ſible ſpeed to provide himſelfe of as many Boats
+<pb n="10" facs="tcp:46779:7"/>
+as he could to ferry them from all parts and places to this purpoſe, and when there was a huge multi<g ref="char:EOLhyphen"/>tude of all ſorts gathered together in a large and ſpa<g ref="char:EOLhyphen"/>cious place, one of the chiefe Heraulds belonging to the internall court cryed out vnto the aſſembly with a loud voice, to crave a generall ſilence, after which, <hi>Pluto</hi> thus began<hi>:</hi>
+            </p>
+            <p>
+               <hi>My deare children, Servants, Iourneymen, and well approved Subjects, you ſee into what a low and weake e<g ref="char:EOLhyphen"/>ſtate I am brought, and as you have beene dutifull and obedient with all diligence hitherto to execute my com<g ref="char:EOLhyphen"/>mands, ſo my deſire is, that you would alwaies continue vnto the end, I cannot forget your care, true love, indu<g ref="char:EOLhyphen"/>ſtry, and paines you have taken in generall, for the en<g ref="char:EOLhyphen"/>largement of my Kingnome, and you my beloved Doctors, in endeavouring to performe your beſt skill, to recover my former health, as alſo you my deareſt children whoſe Sanctity, we reverence, whoſe perſons we adore, whoſe policies we wonder at, whoſe power we muſe at, whoſe invincible Stratagems we ſtand amazed at, and whoſe Wiſdomes we admire, neither can we but in the firſt place extoll, applaud, and highly commend you, for your extraordinary care in advancing our infernall Domi<g ref="char:EOLhyphen"/>nions.</hi>
+            </p>
+            <p>And we are alſo pleaſed of our infernall grace and favour, to take notice of your great ſervice done, in working the diſſolution of the laſt Parliament, by which meanes nothing was effected for the good of the Hereticks, either concerning the church or com<g ref="char:EOLhyphen"/>mon wealth, but thereby the Nobles of <hi>England</hi> were male-content, the Gentry diſcouraged, the Com<g ref="char:EOLhyphen"/>mons divided, the number of our ſervants, the <hi>Roman</hi>
+               <pb n="11" facs="tcp:46779:7"/>
+Catholikes infinitly encreaſed, and the whole Realme of <hi>England</hi> mightily oppreſſed; ſo as the ſucceſſe of our deſigne was thereby no waies hindered.</p>
+            <p>Now my wel-beloved children, ſervants, Iourney-men, ſubjects, Allies, &amp; all my well-willers whom ſo<g ref="char:EOLhyphen"/>ever, if you could by any Device, Stratagem, Policy, Money, Friendſhip, or any other deluſive or ſiniſter means, ſtudy to diſſolve or break up this preſent Par<g ref="char:EOLhyphen"/>ljament, w<hi rend="sup">ch</hi> would be the onely way, as we conceive in our Diabolicall Princely Wiſdome, to breake the bond of peace &amp; vnity amongſt them, and thereby to move God to leave them to themſelves, you ſhould not onely be enrolled in our everlaſting Kalendar for our deareſt children and Subjects, but alſo be placed neere us in our favour for ever; and then alſo, to our great comfort, our infernall Stratagem might ſpee<g ref="char:EOLhyphen"/>dily be executed vpon them, &amp; our Kingdome migh<g ref="char:EOLhyphen"/>tily encreaſed and enlarged.</p>
+            <p>Therefore all you my deare children, ſubjects, at<g ref="char:EOLhyphen"/>tendants, and Allyes, who are willing to doe your beſt endeavours for the performing of this Enterprize; we require you to be ready to take the Oath <hi>ex officio,</hi> &amp; to lay your hands vpon the Book. Whereupon with a generall acclamation &amp; conſent, they all promiſed to doe what poſſible in them lay to performe his re<g ref="char:EOLhyphen"/>queſt, and affirmed, that they all were willing to con<g ref="char:EOLhyphen"/>ſe<g ref="char:cmbAbbrStroke">̄</g>t to his demand, &amp; therepon they layd their hands vpon the Booke. Then <hi>Pluto</hi> cauſing his principall attendants to raiſe him a little higher on his Pillow, proceeded on this manner: You my loving Subjects who have ſtept aſide, and made your legges your beſt protection, you alſo that are vnder the command of
+<pb n="12" facs="tcp:46779:8"/>
+the Black Rod, and you that much feare you ſhall be queſtioned this preſent Parliament, and you my Iourneymen Patentees, and the reſt of my loving Subjects here preſent, are you all willing to take the oath aforeſaid for the breaking vp of this Parliament, then they all cryed with one voice; <hi>Willing, moſt wil<g ref="char:EOLhyphen"/>ling, long live your Helliſh Majeſtie,</hi> I beleeve you (ſaid <hi>Pluto)</hi> take your hands from the Booke, I dare take your bare words. Whereupon <hi>Pluto's</hi> great Counſell was called before his infernall Highneſſe, and being aſſembled together, they all co<g ref="char:cmbAbbrStroke">̄</g>cluded, that forthwith a Proclamation ſhould be ſent abroad into all places in great <hi>Pluto's</hi> name, the tenour whereof followeth.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proclamation">
+                        <p>TO the Pope, our right Truſty and wel<g ref="char:EOLhyphen"/>beloved Sonne, and all the Ieſuiticall Rab<g ref="char:EOLhyphen"/>ble, our adopted Children, to the <hi>Spaniard, I<g ref="char:EOLhyphen"/>talian, French, Dutch,</hi> or what Nation people, or in what parts ſoever this ſhall come, theſe are to give notice, that whoſoever can by a<g ref="char:EOLhyphen"/>ny fraud, friendſhip, money, or any other means whatſoever, diſſolve &amp; breake vp this preſent Parliament, That thereby great <hi>Pluto</hi> may recover not onely his former health, but that his Kingdomes and Dominions may al<g ref="char:EOLhyphen"/>ſo be enlarged, he ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll for ſo memorable an Act, be ſeated in place of Iudicature with his
+<pb n="13" facs="tcp:46779:8"/>
+chiefe Iuſtice <hi>Rhadamantus;</hi> or next to <hi>Pluto</hi> himſelfe, and forthwith be made Vice-Roy of Hell, prince of this world, Arch-Duke of <hi>Styx, Acheron;</hi> &amp; <hi>Phlegeton;</hi> Marqueſſe of <hi>Coeytus</hi> and <hi>Lethe;</hi> and ſole Commander (vnder him) of all Infernall Spirits and Furies.</p>
+                        <closer>
+                           <signed>And herevnto, we, the ſayd Grand <hi>Pluto</hi> have ſet our Hand and Seale Royall, in the preſence of all our Children, Friends and ſervants aforenamed.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This being proclaimed with thundring Drums, and ſound of Trumpets, awaked the honeſt Country-man, who having ſeen and obſerved in his Dreame, all theſe paſſages and occurrents, lay for a while as it were in a trance, trembling and in a great extaſie, at laſt recol<g ref="char:EOLhyphen"/>lecting his ſenſes, he aroſe, and going from his cham<g ref="char:EOLhyphen"/>ber to goe about his buſineſſe, he met by chance with two of his owne Countrey-men, who had beene a long time encombred with Law-ſuites, vnto whom he related this his Dreame, with all the paſſages a<g ref="char:EOLhyphen"/>foreſaid, whereat they wondering, and much aſto<g ref="char:EOLhyphen"/>niſhed, deſired him to deliver vnto them a Copie thereof in writing, which he promiſed, and perfor<g ref="char:EOLhyphen"/>med the next day following.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
